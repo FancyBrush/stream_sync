@@ -1,2 +1,1 @@
-# Friday Software
-# Login System
+# Stream Client
